@@ -1,4 +1,12 @@
 {
-  "name": "easy-hardcoded-admin-password-reset-secret",
-  "private": true
+  "name": "laddr-easy-hardcoded-admin-password-reset-secret",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "echo \"Sample repo scaffold\"",
+    "start": "echo \"Sample repo scaffold\""
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
